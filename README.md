@@ -1,4 +1,4 @@
-# Hi 👋, I'm Paromita Karmakar
+# Hi 👋, I'm Paromita Karmakar.
 **A Data Science Explorer | LLM & AI Passionate**
 
 Email Me 👉 ✉️ **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
