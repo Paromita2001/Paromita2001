@@ -1,23 +1,16 @@
-# Hi 👋, I'm Paromita Karmakar
+# Hi, I'm Paromita Karmakar
 **A Data Science Explorer | LLM & AI Passionate**
 
-Email Me 👉 ✉️ **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI-powered Voice and NLP Projects, and Intelligent Data Systems
-- 🌱 **I’m currently learning:** MSc. in Data Science at MAHE
-- 👯 **I’m looking to collaborate on:** End-to-End Data Science Projects, ML Model Deployment, and AI Research Applications
-- 🤔 **I’m looking for help with:** Building Production-Ready ML Pipelines and Generative AI Projects
-- 💬 **Ask me about:** Data Science, Python, ML/DL, NLP, and Career Preparation
-- 📫 **How to reach me:** paromitakarmakar06@gmail.com
-- 😄 **Pronouns:** Paromita
-- ⚡ **Fun fact:** I turn data into stories, and stories into decisions!
+-  **I’m currently working on:** AI-powered Voice and NLP Projects, and Intelligent Data Systems
+-  **I’m looking to collaborate on:** End-to-End Data Science,Gen AI and Agentic AI Projects, Model Deployment, and AI Research Applications
+-  **Ask me about:** Data Science, Python, ML/DL, NLP,Gen AI, Agentic AI and Career Preparation
+-  **How to reach me:** paromitakarmakar06@gmail.com
 
-## 🔗I’m a curious mind and lifelong learner 😊😊
+## 🔗I’m a curious mind and lifelong learner
 
 A passionate and curious Data Science learner who loves solving real-world problems through data, logic, and creativity.
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Paromita2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paro_v2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paromita-karmakar-11404724a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31861726/paromita-karmakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paromitakarmakar06@gmail.com) 
