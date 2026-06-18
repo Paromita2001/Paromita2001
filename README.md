@@ -1,5 +1,5 @@
 # Hi, I'm Paromita Karmakar
-**AI Explorer
+**AI Explorer**
 
 Email Me **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything Else.
 
