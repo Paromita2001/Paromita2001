@@ -10,7 +10,7 @@ Email Me **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything 
 
 ## 🔗I’m a curious mind and lifelong learner
 
-A passionate and curious Data Science learner who loves solving real-world problems through data, logic, and creativity.
+A passionate and curious AI learner who loves solving real-world problems through data, logic, and automate via Agents.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paro_v2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paromita-karmakar-11404724a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31861726/paromita-karmakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paromitakarmakar06@gmail.com) 
