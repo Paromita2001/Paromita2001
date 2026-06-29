@@ -1,7 +1,7 @@
 # Hi, I'm Paromita Karmakar
 **AI Explorer**
 
-Email Me **paromitakarmakar06@gmail.com** For Collaboration/Project or Anything Else.
+Email Me **paromita.k.tech@gmail.com** For Collaboration/Project or Anything Else.
 
 -  **I’m currently working on:** Agentic Projects, and Intelligent Systems
 -  **I’m looking to collaborate on:** End-to-End Data Science,Gen AI and Agentic AI Projects, Model Deployment, and AI Research Applications
