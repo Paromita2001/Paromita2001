@@ -13,8 +13,8 @@ class AIMLEngineer:
     def __init__(self):
         self.name = "Paromita"
         self.education = "MSc in Data Science, MAHE"
-        self.skills = ["Python", "Machine Learning", "Deep Learning", "GenAI", "Agentic AI Systems", "RAG"]
-        self.interests = ["GenAI", "Agentic AI", "LLMs", "Multi-Agent Systems", "MLOps"]
+        self.skills = ["Python", "Machine Learning", "Deep Learning", "NLP", "GenAI", "Agentic AI Systems"]
+        self.interests = ["GenAI", "Agentic AI", "LLMs", "Multi-Agent Systems"]
 
     def say_hi(self):
         print("Building autonomous AI agents, one project at a time!")
