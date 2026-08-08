@@ -64,8 +64,8 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://leetcode.com/kparomita/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/kparomita?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+<a href="https://leetcode.com/Paromita2001/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Paromita2001?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </a>
 
 </div>
