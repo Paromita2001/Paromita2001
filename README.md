@@ -9,7 +9,7 @@
 </div>
 
 ```python
-class AIMLEngineer:
+class AIEngineer:
     def __init__(self):
         self.name = "Paromita"
         self.education = "MSc in Data Science, MAHE"
@@ -19,7 +19,7 @@ class AIMLEngineer:
     def say_hi(self):
         print("Building autonomous AI agents, one project at a time!")
 
-me = AIMLEngineer()
+me = AIEngineer()
 me.say_hi()
 ```
 
