@@ -9,6 +9,69 @@
 
 </div>
 
+```python
+class AIMLEngineer:
+    def __init__(self):
+        self.name = "Paromita"
+        self.education = "MSc in Data Science, MAHE"
+        self.skills = ["Python", "Machine Learning", "Deep Learning", "GenAI", "Agentic AI Systems", "RAG"]
+        self.interests = ["GenAI", "Agentic AI", "LLMs", "Multi-Agent Systems", "MLOps"]
+
+    def say_hi(self):
+        print("Building autonomous AI agents, one project at a time!")
+
+me = AIMLEngineer()
+me.say_hi()
+```
+
+### 🧠 Technical Skills
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- AI/ML & GenAI -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen%20AI-2E333F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-BE202F?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- Core Skills -->
+  <img src="https://img.shields.io/badge/Mathematics-8E44AD?style=for-the-badge&logo=calculator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center"> 
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paromita2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" /> 
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paromita2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" /> 
+</div>
+
+---
+
+## 💻 My LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/kparomita/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/kparomita?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paro_v2.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paromita-karmakar-11404724a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31861726/paromita-karmakar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paromitakarmakar06@gmail.com) 
 
