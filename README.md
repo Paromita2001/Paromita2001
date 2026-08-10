@@ -5,7 +5,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=200&section=header&text=Hi,%20I'm%20Paromita!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=F09819&center=true&vCenter=true&width=800&lines=Data+Science+Grad+%7C+MAHE;Aspiring+Agentic+AI+Engineer;GenAI+%26+Multi-Agent+Systems;Building+Autonomous+AI+Agents;Exploring+RAG+%26+LLM+Fine-Tuning;Always+Learning+New+Tech)](https://git.io/typing-svg)
-
+</div>
 
 ###  About me
 Building autonomous AI agents and GenAI applications, one project at a time. MSc Data Science | LangChain/LangGraph, RAG, LLM fine-tuning | Open to opportunities in AI/ML & GenAI Engineering.
