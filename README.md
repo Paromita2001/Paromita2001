@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=F09819&center=true&vCenter=true&width=800&lines=Data+Science+Grad+%7C+MAHE;Aspiring+Agentic+AI+Engineer;GenAI+%26+Multi-Agent+Systems;Building+Autonomous+AI+Agents;Exploring+RAG+%26+LLM+Fine-Tuning;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello, welcome to my github.gif" width="300"/>
 
 
 ###  About me
