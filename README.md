@@ -8,7 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello, welcome to my github.gif" width="300"/>
 
-</div>
 
 ###  About me
 Building autonomous AI agents and GenAI applications, one project at a time. MSc Data Science | LangChain/LangGraph, RAG, LLM fine-tuning | Open to opportunities in AI/ML & GenAI Engineering.
