@@ -39,13 +39,6 @@ Building autonomous AI agents and GenAI applications, one project at a time. MSc
 
 ---
 
-##  GitHub Stats
-
-<div align="center"> 
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Paromita2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" /> 
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paromita2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=7200" /> 
-</div>
-
 ---
 
 ##  My LeetCode Stats
